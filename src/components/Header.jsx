@@ -1,6 +1,6 @@
 import styles from './Header.module.css'
 
-import igniteLogo from '../image/ignite-logo.svg';
+import igniteLogo from '../assets/ignite-logo.svg';
 
 console.log(igniteLogo)
 
